@@ -1,7 +1,7 @@
 ## Hi, I'm Hyunsu Lee[이현수]! 
 
 "I'm a college student currently studying in the department of Information and Statistics, which is my major"
-
+🌱 This GitHub is where I’m slowly organizing my study notes, class projects, and experiences as I keep learning.  
 
 
 🗃️
