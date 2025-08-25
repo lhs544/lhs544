@@ -1,5 +1,10 @@
 ## Hi, I'm Hyunsu Lee[이현수]! 
 
+🗃️ studying in department of Information and Statistics.
+📚
+📖
+💼
+🍀
 
 
 <!--
