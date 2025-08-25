@@ -19,7 +19,7 @@ I’m always learning and curious about what’s next in my studies and projects
 This GitHub is my personal space to organize and share what I’m learning and trying out.  
 
 
-This GitHub is my personal space where I’m slowly organizing my study notes, class projects, and experiences as what I'm learning and trying out.  
+This GitHub is my personal space where I’m slowly organizing my study notes, class projects, and experiences as what learning and trying out.  
 
 
 
