@@ -1,6 +1,8 @@
 ## Hi, I'm Hyunsu Lee[이현수]! 
 
-"I am a university student specializing in Information Statistics as my major field of study."
+"I'm a college student currently studying in the department of Information and Statistics, which is my major"
+
+
 
 🗃️
 📚
