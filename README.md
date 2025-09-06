@@ -22,13 +22,6 @@ This is my personal space where I’m slowly organizing my study notes, class pr
 
 
 
-🗃️
-📚
-📖
-💼
-🍀
-
-
 <!--
 **lhs544/lhs544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
