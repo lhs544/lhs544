@@ -15,9 +15,10 @@ I’m learning and curious about what’s next in my studies and projects 🌱.
 This is my personal space where I’m slowly organizing my study notes, class projects, and experiences as what learning and trying out.  
 
 ---
+
 CV 📄 
 
-lhs_CV.pdf
+[](lhs_CV.pdf)
 
 ---
 Contact 📧
