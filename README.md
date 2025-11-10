@@ -18,7 +18,7 @@ This is my personal space where I’m slowly organizing my study notes, class pr
 
 CV 📄 
 
-[-](lhs_CV.pdf)
+[lhs_CV](lhs_CV.pdf)
 
 ---
 Contact 📧
