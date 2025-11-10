@@ -11,7 +11,7 @@ I enjoy exploring new ideas and challenges.
 
 I’m learning and curious about what’s next in my studies and projects.  
 
-This is my personal space where I’m slowly organizing my study notes, class projects, and experiences as what learning and trying out.  
+This is my space where I’m organizing my study notes, projects, and experiences as what learning and trying out.  
 
 ---
 Tech Stack
