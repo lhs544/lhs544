@@ -17,9 +17,8 @@ This is my personal space where I’m slowly organizing my study notes, class pr
 ---
 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ---
 
 CV 📄 
@@ -31,5 +30,6 @@ Contact 📧
 
 Feel free to reach out via lhs544@naver.com
 
-[![Naver Mail](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:lhs544@naver.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lhs544)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](mailto:lhs544@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lhs544)
+
