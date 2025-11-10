@@ -36,4 +36,4 @@ Feel free to reach out via lhs544@naver.com
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lhs544)
 
 ---
-Thanks for visiting my github!
+Thank you for visiting my github! 
