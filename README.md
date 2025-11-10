@@ -9,7 +9,7 @@ I am actively participating in activities related to my major.
 
 I enjoy exploring new ideas and challenges.  
 
-I’m learning and curious about what’s next in my studies and projects 🌱.  
+I’m learning and curious about what’s next in my studies and projects.  
 
 This is my personal space where I’m slowly organizing my study notes, class projects, and experiences as what learning and trying out.  
 
