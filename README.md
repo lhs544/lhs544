@@ -14,24 +14,12 @@ I’m learning and curious about what’s next in my studies and projects 🌱.
 
 This is my personal space where I’m slowly organizing my study notes, class projects, and experiences as what learning and trying out.  
 
+---
+CV 📄 
+
 
 
 ---
 Contact 📧
 
 Feel free to reach out via lhs544@naver.com
-
-<!--
-**lhs544/lhs544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
