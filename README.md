@@ -1,4 +1,4 @@
-## Hi, I'm Hyunsu Lee[이현수]! 
+## Hyunsu Lee[이현수]
 I'm a college student majoring in department of Information and Statistics. 📊  
 
 I’m studying data analysis, preprocessing, and AI, and enjoy applying what I learn through various projects.
