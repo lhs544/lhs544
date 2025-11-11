@@ -35,5 +35,8 @@ Feel free to reach out via lhs544@naver.com
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](mailto:lhs544@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lhs544)
 
+I like you to contact me through my Naver email
+
 ---
 Thank you for visiting my github! 
+
